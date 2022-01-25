@@ -1,0 +1,6 @@
+[submodule "TeslaPy"]
+	path = TeslaPy
+	url = https://github.com/tdorssers/TeslaPy.git
+[submodule "alphaess-openAPI"]
+	path = alphaess-openAPI
+	url = https://github.com/CharlesGillanders/alphaess-openAPI.git

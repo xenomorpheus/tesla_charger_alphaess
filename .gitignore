@@ -1,0 +1,7 @@
+**/cache.json
+**/.DS_Store
+config.json
+.venv
+__pycache__
+.vscode
+debug.log

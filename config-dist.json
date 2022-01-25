@@ -1,0 +1,11 @@
+{
+    "tesla" : {
+        "auth_email": "TODO",
+        "vehicle_idx":  0
+    },
+    "alphaess" : {
+        "app_id":  "TODO",
+        "app_secret": "TODO",
+        "serial": "TODO"
+    }
+}
