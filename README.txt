@@ -7,7 +7,7 @@ https://github.com/tdorssers/TeslaPy
 -------------------
 Original setup
 
-git clone ssh://git@developer.hal9000.net.au:7999/pp/tesla-alphaess.git
+git clone ......
 cd tesla-alphaess
 git submodule update --init
 
